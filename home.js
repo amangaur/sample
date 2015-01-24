@@ -1,4 +1,4 @@
-
+var angul=document.getElementById("hi");
 
 function main()
 {
